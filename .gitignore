@@ -14,22 +14,3 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
-
-/node_modules
-/coverage
-/cli
-/lib
-/peers
-/example
-.vscode
-.DS_Store
-tailwind.config.js
-yarn.lock
-yarn-error.log
-types/generated/*.d.ts
-
-# Perf related files
-isolate*.log
-
-# Generated files
-/src/corePluginList.js
